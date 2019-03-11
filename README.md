@@ -7,7 +7,7 @@ HTTP Method: POST
 
 # Resource Url
 
-https://cofredpayaccess.com/api/v1/PreApproval
+https://cofredpay.com/api/v1/PreApproval
 
 # Headers
 
